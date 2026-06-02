@@ -30,15 +30,15 @@ Console-based Car Rental System developed using Java and OOP concepts.
 
 ### Main Menu
 
-![Menu](screenshots/Menu.png)
+![Menu](Car-Rental-System-Java/screenshots/Menu.png)
 
 ### Rent Car
 
-![Rent Car](screenshots/Rent.png)
+![Rent Car](Car-Rental-System-Java/screenshots/Rent.png)
 
 ### Return Car
 
-![Return Car](screenshots/Return.png)
+![Return Car](Car-Rental-System-Java/screenshots/Return.png)
 
 ## Learning Outcomes
 
